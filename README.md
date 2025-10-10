@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Aryan, a Software Engineer with 3+ years of experience building robust systems. I'm trying to get better at Open-source.
+
+- 🔭 I’m currently working on:
+  - Python modules and SDKs
+  - Pipeline-as-Code (Jenkins, Groovy)
+  - Infrastructure-as-Code (Terraform)
+- 🌱 I’m currently learning:
+  - Websockets
+  - System design
+  - Microservices
+  - API design
+- 👯 I’m looking to collaborate on any exciting Open-source project
+- 📫 How to reach me: [patel.aryan66@gmail.com](mailto:patel.aryan66@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love trivia
