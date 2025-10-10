@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Aryan, a Software Engineer with 3+ years of experience building robust systems. I'm trying to get better at Open-source.
+I'm Aryan, a Software Engineer with 3+ years of experience building robust systems.
 
 - 🔭 I’m currently working on:
   - Python modules and SDKs
