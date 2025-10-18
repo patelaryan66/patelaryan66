@@ -28,4 +28,4 @@ I'm Aryan, a Software Engineer with 3+ years of experience building robust syste
 - 👯 I’m looking to collaborate on any exciting Open-source project
 - 📫 How to reach me: [patel.aryan66@gmail.com](mailto:patel.aryan66@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love trivia
+- ⚡ Fun fact: I enjoy quizzing as a hobby
