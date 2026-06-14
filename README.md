@@ -20,6 +20,7 @@ I'm Aryan, a Software Engineer with 3+ years of experience building robust syste
   - Agentic AI workflows in Site Reliability Engineering (SRE)
   - Python SDKs for Compliance-as-Code
   - Pipeline-as-Code (Jenkins, Groovy)
+  - Personal productivity tools
 - 🌱 I’m currently learning:
   - Websockets
   - System design
