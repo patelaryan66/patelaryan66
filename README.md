@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm Aryan, a Software Engineer with 3+ years of experience building robust systems.
 
 - 🔭 I’m currently working on:
-  - Python modules and SDKs
+  - Agentic AI workflows in Site Reliability Engineering (SRE)
+  - Python SDKs for Compliance-as-Code
   - Pipeline-as-Code (Jenkins, Groovy)
-  - Infrastructure-as-Code (Terraform)
 - 🌱 I’m currently learning:
   - Websockets
   - System design
